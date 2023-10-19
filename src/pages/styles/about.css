@@ -59,6 +59,19 @@
 	display: block;
 	width: 100%;
 }
+.about-image {
+	animation: pulse2 6s ; /* Start the pulsating animation on hover */
+  transform: scale(1.1);
+}
+@keyframes pulse2 {
+	0% {
+	  transform: scale(1);
+	}
+	100% {
+	  transform: scale(1.05); /* Scale up to 105% size at 50% of the animation */
+	}
+	
+  }
 
 .about-socials {
 	padding-top: 50px;

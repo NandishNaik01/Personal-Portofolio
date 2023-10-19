@@ -1,83 +1,91 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Reactfolio by Nandish Naik",
+		name: "Naik",
+		email: "naik.nandishd@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		twitter: "https://twitter.com/NandishNai7939",
+		github: "https://github.com/NandishNaik01",
+		linkedin: "www.linkedin.com/in/nandish-d-naik-39a785257",
+		instagram: "https://www.instagram.com/the__restless___/",
+		// flow: "https://stackoverflow.com/stackover",
+		facebook: "https://www.facebook.com/profile.php?id=61552420581922",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "' Aspiring Professional '",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+		"I've had the privilege of working on a diverse range of projects throughout my journey, and I take great pride in the progress I've achieved. Many of these projects are open-source, inviting others to explore and actively participate. If any of these initiatives pique your interest, I encourage you to delve into the codebase and suggest potential enhancements or improvements. Collaboration is a wonderful avenue for personal growth and learning, and I'm continually receptive to fresh ideas and constructive feedback.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		// title: "Nandish D, From BHARAT,<br/>where I craft tomorrow's possibilities.",
+		title: (
+			<div>
+				Nandish D, From <span style={{ color: 'orange', fontWeight: 'bold' }}> " भारत "</span><br />
+				<a href="https://example.com">
+					
+				</a> where I craft tomorrow's possibilities.
+			</div>
+		),
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I've had the privilege of working on a diverse range of projects throughout my journey, and I take great pride in the progress I've achieved. Many of these projects are open-source, inviting others to explore and actively participate. If any of these initiatives pique your interest, I encourage you to delve into the codebase and suggest potential enhancements or improvements. Collaboration is a wonderful avenue for personal growth and learning, and I'm continually receptive to fresh ideas and constructive feedback.",
 	},
 
 	articles: {
 		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"collection of my long-form thoughts on programming.",
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Project 1 : Gita Quotes" ,
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"I have created an Android app for reading Bhagavad Gita quotes chapter-wise,Digitally",
+			logo: "https://e1.pngegg.com/pngimages/736/783/png-clipart-macos-app-icons-android-studio.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/NandishNaik01/GitaQuotes",
 		},
 
 		{
-			title: "Project 2",
+			title: "Project 2 : CALCO",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"I'm developing an innovative Android app to revolutionize financial decision It also calculate forex trading movements .",
+			logo: "https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://www.figma.com/proto/S0QZoT5H4JKb1TsEEXCNN1/CALCO?page-id=0%3A1&type=design&node-id=17-2&viewport=-193%2C1087%2C0.3&t=5kgU2yVWm0zsbuSn-1&scaling=scale-down&starting-point-node-id=6%3A2&mode=design",
 		},
 
 		{
-			title: "Project 3",
+			title: "Project 3 : Under Construction..! ",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"Currently being built.. with pure passion, dedication and loads of creativity.... currently on brainstorming  ",
+			logo: "https://toppng.com/uploads/preview/set-up-svg-icon-free-settings-icon-black-11553450888ksmklhagoh.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/NandishNaik01",
 		},
 
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+		// {
+		// 	title: "Project 4",
+		// 	description:
+		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+		// 	linkText: "View Project",
+		// 	link: "https://github.com",
+		// },
 
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+		// {
+		// 	title: "Project 5",
+		// 	description:
+		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+		// 	linkText: "View Project",
+		// 	link: "https://github.com",
+		// },
 	],
 };
 

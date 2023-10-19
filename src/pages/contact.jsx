@@ -42,6 +42,9 @@ const Contact = () => {
 						<div className="title contact-title">
 							Let's Get in Touch: Ways to Connect with Me
 						</div>
+						
+						<h3>My Resume: <a href="/res.pdf" target="_blank">Download PDF</a></h3>
+						
 
 						<div className="subtitle contact-subtitle">
 							Thank you for your interest in getting in touch with

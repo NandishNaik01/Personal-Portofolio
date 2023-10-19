@@ -11,6 +11,7 @@
 	padding-top: 25px;
 }
 
+
 .homepage-first-area {
 	display: flex;
 	justify-content: space-between;
@@ -50,6 +51,19 @@
 .homepage-image-wrapper img {
 	width: 100%;
 }
+.homepage-image {
+	animation: pulse 3s ; /* Start the pulsating animation on hover */
+  transform: scale(1.1);
+}
+@keyframes pulse {
+	0% {
+	  transform: scale(1);
+	}
+	100% {
+	  transform: scale(1.05); /* Scale up to 105% size at 50% of the animation */
+	}
+	
+  }
 
 .homepage-socials {
 	display: flex;
