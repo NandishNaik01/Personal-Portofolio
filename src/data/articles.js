@@ -52,23 +52,78 @@ function article_1() {
 function article_2() {
 	return {
 		date: "An Interesting Article",
-		title: "Artificial Intelligence in Healthcare",
+		title: "Acharya Pingala: The Pioneer of Binary Number System in Ancient India",
 		description:
-			"AI is transforming the healthcare industry, from improving patient outcomes to streamlining operations. Discover the latest applications of this game-changing technology.",
+			"Acharya Pingala: The Pioneer of Binary Number System in Ancient India is a brief exploration of the historical origins of the binary number system and the pivotal role played by Acharya Pingala, an ancient Indian mathematician and scholar. This article highlights the pre-European roots of the binary system, discusses early number systems, and emphasizes Pingala's contribution to the development of this fundamental numerical concept.",
 		style: ``,
 		keywords: [
-			"Artificial Intelligence in Healthcare",
+			"Acharya Pingala",
 			
 		],
 		body: (
 			<React.Fragment>
-				<h3>Content of article 2</h3>
-				<h1>Working On this Article....</h1>
+				<div className="article-content">
+					<div className="paragraph"></div>
+					{/* <embed
+						src="public\sanskrit as programming language.pdf"
+						alt="random"
+						className="randImage"
+						type="application/pdf" width="100%" height="500px"
+					/> */}
+					<embed
+ 							src={process.env.PUBLIC_URL + '/final.pdf'}
+  							alt="random"
+  							className="randImage"
+  							type="application/pdf"
+  							width="100%"
+ 							height="500px"
+					/>
+
+					{/* <embed src="your-pdf-file.pdf"  /> */}
+
+				</div>
+			</React.Fragment>
+		),
+	};
+}
+function article_3() {
+	return {
+		date: "An Interesting Article",
+		title: "Krishna And Physics",
+		description:
+			"Uncover the surprising connections between the iconic figure Bhagwan Krishna and the principles of physics in my latest article. Explore the intriguing parallels that bridge spirituality and scientific understanding. Join me on this captivating journey where history meets physics.",
+		style: ``,
+		keywords: [
+			"Krishna And Physics",
+			
+		],
+		body: (
+			<React.Fragment>
+				<div className="article-content">
+					<div className="paragraph"></div>
+					{/* <embed
+						src="public\sanskrit as programming language.pdf"
+						alt="random"
+						className="randImage"
+						type="application/pdf" width="100%" height="500px"
+					/> */}
+					<embed
+ 							src={process.env.PUBLIC_URL + '/krishna.pdf'}
+  							alt="random"
+  							className="randImage"
+  							type="application/pdf"
+  							width="100%"
+ 							height="500px"
+					/>
+
+					{/* <embed src="your-pdf-file.pdf"  /> */}
+
+				</div>
 			</React.Fragment>
 		),
 	};
 }
 
-const myArticles = [article_1, article_2];
+const myArticles = [article_1, article_2, article_3];
 
 export default myArticles;

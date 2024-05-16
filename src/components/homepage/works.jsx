@@ -18,6 +18,7 @@ const Works = () => {
 							<ul>								
 								<h4><li><a href="/Pal0Alt0Certificate.pdf">Cyber Security by <strong>PalOAltO</strong></a></li></h4>
 								<h4><li><a href="/BigdataCertificate.pdf">Big Data By Ekathva Innovations P.Ltd</a></li></h4>
+								<h4><li><a href="/jscert.png">JavaScript Certification test</a></li></h4>
 								{/* <h4><li><a href="/res.pdf">Mern Stack by MICROFOST</a></li></h4>
 								<h4><li><a href="/res.pdf">UX/UI BY GOOGLE</a></li></h4> */}
 							</ul>
