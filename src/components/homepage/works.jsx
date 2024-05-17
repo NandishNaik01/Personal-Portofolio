@@ -53,8 +53,13 @@ const Works = () => {
 										</a>
 									</li>
 								</h4>
-								{/* <h4><li><a href="/res.pdf">Mern Stack by MICROFOST</a></li></h4>
-								<h4><li><a href="/res.pdf">UX/UI BY GOOGLE</a></li></h4> */}
+								<h4>
+									<li>
+										<a href="/mern.png">
+											MERN Fundamentals By Great Learning
+										</a>
+									</li>
+								</h4>
 							</ul>
 						</div>
 					</div>
