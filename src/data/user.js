@@ -75,12 +75,12 @@ const INFO = {
 		},
 
 		{
-			title: "Project 3 : Under Construction..! ",
+			title: "Project 3 : Swift-Apply Assistant! ",
 			description:
-				"Currently being built.. with pure passion, dedication and loads of creativity.... currently on brainstorming  ",
-			logo: "https://toppng.com/uploads/preview/set-up-svg-icon-free-settings-icon-black-11553450888ksmklhagoh.png",
+				"Swift Apply Assistant is a Chrome extension that automates Google Forms filling. Users can store key-value pairs for form labels and data,",
+			logo: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD0AdFDHozAJN_5mTAc4J4VmFp0moDBbtc4AgJXLCbN3q_1T4A5PpUXOaMayQq96spfEt2qIzdQ_WzPayVazqO9JdCgS0YxuedjbpkDcXHtfwKhvh9wem1t-Bq5d7_U7gG-VaXVCdtjX0/s1600/Chrome.png",
 			linkText: "View Project",
-			link: "https://github.com/NandishNaik01",
+			link: "https://github.com/NandishNaik01/Auto-Form-Filler---Using-Js-For-Dom-Manipulation",
 		},
 
 		// {
