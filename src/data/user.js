@@ -27,12 +27,10 @@ const INFO = {
 			<div>
 				Nandish D, From{" "}
 				<span style={{ color: "orange", fontWeight: "bold" }}>
-					{" "}
 					" भारत "
 				</span>
 				<br />
-				<a href="https://example.com"></a> where I craft tomorrow's
-				possibilities.
+				where I craft tomorrow's possibilities.
 			</div>
 		),
 		description:
