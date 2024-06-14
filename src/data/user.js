@@ -46,7 +46,7 @@ const INFO = {
 		{
 			title: "Project 1 : Gita Quotes",
 			description:
-				"I have created an Android app for reading Bhagavad Gita quotes chapter-wise,Digitally",
+				"I have created an Android app for reading Bhagavad Gita quotes chapter-wise,",
 			logo: "https://e1.pngegg.com/pngimages/736/783/png-clipart-macos-app-icons-android-studio.png",
 			linkText: "View Project",
 			link: "https://github.com/NandishNaik01/GitaQuotes",
