@@ -55,10 +55,10 @@ const INFO = {
 		{
 			title: "Project 2 : CALCO",
 			description:
-				"I'm developing an innovative Android app to revolutionize financial decision It also calculate forex trading movements .",
-			logo: "https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png",
+				"This web project uniquely addresses the problem of calculating trade sizes based on your daily risk and per-trade risk, while considering your total capital. It can suggest sizes in lots or individual units. .",
+			logo: "https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png",
 			linkText: "View Project",
-			link: "https://www.figma.com/proto/S0QZoT5H4JKb1TsEEXCNN1/CALCO?page-id=0%3A1&type=design&node-id=17-2&viewport=-193%2C1087%2C0.3&t=5kgU2yVWm0zsbuSn-1&scaling=scale-down&starting-point-node-id=6%3A2&mode=design",
+			link: "https://lotcalco.netlify.app/",
 		},
 
 		{
