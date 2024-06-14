@@ -18,17 +18,21 @@ const INFO = {
 	homepage: {
 		title: "' Aspiring Professional '",
 		description:
-		"I've had the privilege of working on a diverse range of projects throughout my journey, and I take great pride in the progress I've achieved. Many of these projects are open-source, inviting others to explore and actively participate. If any of these initiatives pique your interest, I encourage you to delve into the codebase and suggest potential enhancements or improvements. Collaboration is a wonderful avenue for personal growth and learning, and I'm continually receptive to fresh ideas and constructive feedback.",
+			"I've had the privilege of working on a diverse range of projects throughout my journey, and I take great pride in the progress I've achieved. Many of these projects are open-source, inviting others to explore and actively participate. If any of these initiatives pique your interest, I encourage you to delve into the codebase and suggest potential enhancements or improvements. Collaboration is a wonderful avenue for personal growth and learning, and I'm continually receptive to fresh ideas and constructive feedback.",
 	},
 
 	about: {
 		// title: "Nandish D, From BHARAT,<br/>where I craft tomorrow's possibilities.",
 		title: (
 			<div>
-				Nandish D, From <span style={{ color: 'orange', fontWeight: 'bold' }}> " भारत "</span><br />
-				<a href="https://example.com">
-					
-				</a> where I craft tomorrow's possibilities.
+				Nandish D, From{" "}
+				<span style={{ color: "orange", fontWeight: "bold" }}>
+					{" "}
+					" भारत "
+				</span>
+				<br />
+				<a href="https://example.com"></a> where I craft tomorrow's
+				possibilities.
 			</div>
 		),
 		description:
@@ -37,13 +41,12 @@ const INFO = {
 
 	articles: {
 		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
-		description:
-			"collection of my long-form thoughts on programming.",
+		description: "collection of my long-form thoughts on programming.",
 	},
 
 	projects: [
 		{
-			title: "Project 1 : Gita Quotes" ,
+			title: "Project 1 : Gita Quotes",
 			description:
 				"I have created an Android app for reading Bhagavad Gita quotes chapter-wise,Digitally",
 			logo: "https://e1.pngegg.com/pngimages/736/783/png-clipart-macos-app-icons-android-studio.png",
