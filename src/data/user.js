@@ -70,14 +70,14 @@ const INFO = {
 			link: "https://github.com/NandishNaik01/Auto-Form-Filler---Using-Js-For-Dom-Manipulation",
 		},
 
-		// {
-		// 	title: "Project 4",
-		// 	description:
-		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-		// 	linkText: "View Project",
-		// 	link: "https://github.com",
-		// },
+		{
+			title: "Project 4 : Password manager App",
+			description:
+				"The PassWord Manager app! Built using Jetpack Compose, Kotlin, Room Database, and AES encryption, it offers a secure solution for managing passwords on Android. Features include biometric authentication for added security and a user-friendly interface designed to streamline password management tasks.",
+			logo: "https://cdn.getmidnight.com/26ffcef53c44522efbfe7fef964a4058/2023/02/untitled-1-.png",
+			linkText: "View Project",
+			link: "https://github.com/NandishNaik01/password-manager-Application-Using-Jetpac-compose-and-kotlin",
+		},
 
 		// {
 		// 	title: "Project 5",
