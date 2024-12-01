@@ -17,6 +17,22 @@ const Works = () => {
 							<ul>
 								<h4>
 									<li>
+										<a href="/Django.png">
+											Django Fundamentals By
+											<strong>Great Learning</strong>
+										</a>
+									</li>
+								</h4>
+								<h4>
+									<li>
+										<a href="/aws.png">
+											AWS Fundamentals By
+											<strong>Great Learning</strong>
+										</a>
+									</li>
+								</h4>
+								<h4>
+									<li>
 										<a href="/Pal0Alt0Certificate.pdf">
 											Cyber Security by{" "}
 											<strong>PalOAltO</strong>
