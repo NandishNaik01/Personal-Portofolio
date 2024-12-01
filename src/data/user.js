@@ -9,9 +9,8 @@ const INFO = {
 	socials: {
 		twitter: "https://twitter.com/NandishNai7939",
 		github: "https://github.com/NandishNaik01",
-		linkedin: "www.linkedin.com/in/nandish-d-naik-39a785257",
+		linkedin: "https://www.linkedin.com/in/nandishd/",
 		instagram: "https://www.instagram.com/the__restless___/",
-		// flow: "https://stackoverflow.com/stackover",
 		facebook: "https://www.facebook.com/profile.php?id=61552420581922",
 	},
 
@@ -22,7 +21,6 @@ const INFO = {
 	},
 
 	about: {
-		// title: "Nandish D, From BHARAT,<br/>where I craft tomorrow's possibilities.",
 		title: (
 			<div>
 				Nandish D, From{" "}
@@ -78,15 +76,6 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://github.com/NandishNaik01/password-manager-Application-Using-Jetpac-compose-and-kotlin",
 		},
-
-		// {
-		// 	title: "Project 5",
-		// 	description:
-		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-		// 	linkText: "View Project",
-		// 	link: "https://github.com",
-		// },
 	],
 };
 
